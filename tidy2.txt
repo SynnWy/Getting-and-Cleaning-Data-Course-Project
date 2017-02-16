@@ -1,5 +1,5 @@
 $value
-    subject     activity_names tBodyAcc-mean()-X tBodyAcc-mean()-Y tBodyAcc-mean()-Z
+       subject     activity_names tBodyAcc-mean()-X tBodyAcc-mean()-Y tBodyAcc-mean()-Z
 1         1             LAYING         0.2215982      -0.040513953       -0.11320355
 2         2             LAYING         0.2813734      -0.018158740       -0.10724561
 3         3             LAYING         0.2755169      -0.018955679       -0.10130048
